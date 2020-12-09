@@ -7,7 +7,6 @@ trigonometry functions (sin, tan, cos).
 
 ## Table of Contents
 
----
 * [Requirements](#requirements)
 * [Usage](#usage)
 * [Example](#example)
