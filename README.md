@@ -11,7 +11,7 @@ trigonometry functions (sin, tan, cos).
 * [Usage](#usage)
 * [Example](#example)
 * [Supported Syntax](#supported-syntax)
-* [Building RPN Calc](#build)
+* [Building RPN Calc](#building-rpn-calc)
 
 ## Requirements
 
