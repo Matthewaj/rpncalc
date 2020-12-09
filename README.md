@@ -15,7 +15,7 @@ trigonometry functions (sin, tan, cos).
 
 ## Requirements
 
-* [Golang 1.15+](https://golang.org/dl/)
+* [Golang 1.15+](https://golang.org/dl)
 
 ## Usage
 
