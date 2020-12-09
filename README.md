@@ -1,7 +1,5 @@
 # RPN Calc
 
----
-
 RPN Calc is a calculator that evaluates expressions written in
 [Reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) (Postfix).
 This calculator is rather simplistic but supports addition, subtraction, multiplication, division, and basic
@@ -9,7 +7,6 @@ trigonometry functions (sin, tan, cos).
 
 ## Table of Contents
 
----
 * [Requirements](#requirements)
 * [Usage](#usage)
 * [Example](#example)
