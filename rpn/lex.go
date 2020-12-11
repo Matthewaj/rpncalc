@@ -95,6 +95,7 @@ func (l *lex) nextDigit() (float64, error) {
 		}
 
 		if char != '.' && !unicode.IsDigit(char) {
+			_ = l.input.UnreadByte()
 			break
 		}
 		digit = digit + string(char)
