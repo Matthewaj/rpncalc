@@ -21,7 +21,7 @@ trigonometry functions (sin, tan, cos).
 
 To run the calculator enter the following command:
 
-```go run cmd/main.go```
+```make run```
 
 Once the application is started, it will prompt you to enter an equation. 
 Simply, enter an equation in [Reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) 
@@ -44,4 +44,4 @@ RPN Calc can be compiled into an executable using Golang.
 
 To compile RPN Calc into an executable run the following command:
 
-`go build -o rpncalc cmd/main.go`
+`make build`
